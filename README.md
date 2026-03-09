@@ -1,30 +1,64 @@
 # Hi, I'm Eman Zahra
 
-Data Science & Machine Learning Enthusiast  
-Based in Ohio, USA
+Data Scientist | Mathematics Graduate | IBM Data Science Professional Certificate
 
-I specialize in using data analysis, machine learning, and statistical modeling to extract insights from real-world datasets.
+I build data science projects using Python, machine learning, and real-world datasets.
 
-## Technical Skills
-Python • SQL • Machine Learning • Data Visualization  
-Pandas • NumPy • Scikit-learn • Matplotlib • Plotly
+---
 
 ## Featured Projects
 
-### SpaceX Falcon 9 Launch Analysis
-Machine learning models predicting rocket landing success using Python and Scikit-learn.
+### SpaceX Falcon 9 Launch Success Prediction
+Machine learning models predicting Falcon 9 first-stage landing success.
+
+Tools: Python, Pandas, Scikit-learn, Plotly
+
+Repository:
+https://github.com/emanzahrashah/SpaceX-Falcon9-success-Analysis
+
+---
 
 ### Airbnb vs Hotel Industry Impact Analysis
-Exploratory analysis examining the relationship between Airbnb growth and hotel industry wage trends.
+Analyzing the relationship between Airbnb growth and hotel industry wages across U.S. cities.
 
-### COVID-19 Trend & Policy Impact Analysis
-Time-series analysis evaluating how policy interventions affected pandemic case growth.
+Tools: Python, Pandas, Data Visualization, Dash
 
-### AI Hiring Bias & Fairness Analysis
-Machine learning fairness evaluation using group recall and false negative metrics.
+Repository:
+https://github.com/emanzahrashah/Airbnb-vs-Hotel-Industry-Impact-Analysis
 
-### GitHub Repository Self Analysis
-AI-powered analysis tool comparing repository structures using clustering and local LLM models.
+---
+
+### COVID-19 Policy Impact Analysis
+Time-series analysis evaluating the effect of stay-at-home orders on infection trends.
+
+Tools: Python, Pandas, Matplotlib
+
+Repository:
+https://github.com/emanzahrashah/covid19-policy-impact-analysis
+
+---
+
+### GitHub Repository Self-Analysis (AI Project)
+Clustering and AI-based analysis of repository structures using machine learning and local LLM models.
+
+Tools: Python, KMeans, Data Analysis
+
+Repository:
+https://github.com/emanzahrashah/github-self-analysis
+
+---
+
+## Technical Skills
+
+Python  
+SQL  
+Machine Learning  
+Data Visualization  
+Pandas  
+NumPy  
+Scikit-learn  
+Matplotlib  
+Plotly
 
 ## Links
 LinkedIn: https://www.linkedin.com/in/eman-zahra-data-scientist  
